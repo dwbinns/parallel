@@ -1,0 +1,11 @@
+{
+  "name": "@dwbinns/parallel",
+  "version": "1.0.0",
+  "description": "Execute async jobs with specified parallelism",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "license": "ISC"
+}
